@@ -8,9 +8,9 @@
 ## Tools
 
 ### Back-end
-![C](https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg)
-![Java](https://img1.gratispng.com/20180621/hxj/kisspng-plain-old-java-object-programming-language-compute-5b2b6405853d65.2645552415295703095458.jpg)
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-43853D?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=c&logoColor=white)
+![python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white)
 
 ![Patrick-contributions](https://activity-graph.herokuapp.com/graph?username=joaolima16&theme=react-dark)
 <div align="center">
