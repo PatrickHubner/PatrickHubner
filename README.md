@@ -9,14 +9,14 @@
 
 ### Back-end
 ![C](https://img.shields.io/badge/C-43853D?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white)
 
-![Patrick-contributions](https://activity-graph.herokuapp.com/graph?username=joaolima16&theme=react-dark)
+![Patrick-contributions](https://activity-graph.herokuapp.com/graph?username=PatrickHubner&theme=react-dark)
 <div align="center">
-  <a href="https://github.com/joaolima16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaolima16&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolima16&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a href="https://github.com/PatrickHubner">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickHubner&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickHubner&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 
@@ -27,5 +27,10 @@
 </div> 
     <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/joaolima16/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/PatrickHubner/count.svg" /></p> 
       <br></div>
+  
+  
+  
+  
+  
