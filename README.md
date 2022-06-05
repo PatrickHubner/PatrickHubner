@@ -9,7 +9,7 @@
 
 ### Back-end
 ![C](https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg)
-![Java](https://img2.gratispng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg)
+![Java](https://img1.gratispng.com/20180621/hxj/kisspng-plain-old-java-object-programming-language-compute-5b2b6405853d65.2645552415295703095458.jpg)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ![Patrick-contributions](https://activity-graph.herokuapp.com/graph?username=joaolima16&theme=react-dark)
