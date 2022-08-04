@@ -10,6 +10,7 @@
 ![C](https://img.shields.io/badge/C-43853D?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white)
+![flutter](https://img.shields.io/badge/Flutter-43853D?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ![Patrick-contributions](https://activity-graph.herokuapp.com/graph?username=PatrickHubner&theme=react-dark)
 <div align="center">
