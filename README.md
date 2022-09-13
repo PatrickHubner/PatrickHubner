@@ -1,7 +1,6 @@
 ### Ola eu sou o Patrick Hubner! 👋
 - 👨‍💻 Cursando Ciência da Computação/ Unirriter Canoas/RS.
 - 🌱 Pretendo atuar na área de desenvolvimento back-end.
-- 👯 Hard Skills => C, Java e Python.
 - 🤔 20 anos
 - 💬 Codigos desbravam novas fronteiras!!!
 ## Tools
