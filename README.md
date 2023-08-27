@@ -1,15 +1,16 @@
 ### Ola eu sou o Patrick Hubner! 👋
 - 👨‍💻 Cursando Ciência da Computação/ Unirriter Canoas/RS.
 - 🌱 Pretendo atuar na área de desenvolvimento back-end.
-- 🤔 20 anos
+- 🤔 21 anos
 - 💬 Codigos desbravam novas fronteiras!!!
 ## Tools
 
 ### Back-end
-![C](https://img.shields.io/badge/C-43853D?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=java&logoColor=white)
-![python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white)
-![flutter](https://img.shields.io/badge/Flutter-43853D?style=for-the-badge&logo=Flutter&logoColor=white)
+![C](https://img.shields.io/badge/C-43853D?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=java)
+![python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-43853D?style=for-the-badge&logo=JavaScript)
+![flutter](https://img.shields.io/badge/Flutter-43853D?style=for-the-badge&logo=Flutter)
 
 ![Patrick-contributions](https://activity-graph.herokuapp.com/graph?username=PatrickHubner&theme=react-dark)
 <div align="center">
