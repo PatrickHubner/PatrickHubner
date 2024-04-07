@@ -5,13 +5,6 @@
 - 💬 Codigos desbravam novas fronteiras!!!
 ## Tools
 
-### Back-end
-![C](https://img.shields.io/badge/C-43853D?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=java)
-![python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-43853D?style=for-the-badge&logo=JavaScript)
-![flutter](https://img.shields.io/badge/Flutter-43853D?style=for-the-badge&logo=Flutter)
-
 ![Patrick-contributions](https://activity-graph.herokuapp.com/graph?username=PatrickHubner&theme=react-dark)
 <div align="center">
   <a href="https://github.com/PatrickHubner">
